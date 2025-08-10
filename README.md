@@ -5,8 +5,11 @@ A lightweight **vanilla HTML/CSS/JS** web game. Play against the computer, see l
 [![Play Online](https://img.shields.io/badge/Play-Online-brightgreen)](https://Sarishti845.github.io/Rock-Paper-Scissors/)
 
 
+
+
 ## 🔗 Live Demo
-`https://Sarishti845.github.io/Rock-Paper-Scissors/`
+[https://Sarishti845.github.io/Rock-Paper-Scissors/](https://Sarishti845.github.io/Rock-Paper-Scissors/)
+
 
 
 ## ✨ Features
