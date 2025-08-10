@@ -16,7 +16,7 @@ A lightweight **vanilla HTML/CSS/JS** web game. Play against the computer, see l
 - Clean, responsive UI — no frameworks
 
 ## 🖼️ Screenshots
-Place these images in `assets/` (already created) and they will render here:
+
 <p align="center">
   <img src="assets/rps-win.png" width="70%" alt="Win state: You win! Your paper beats rock" />
 </p>
